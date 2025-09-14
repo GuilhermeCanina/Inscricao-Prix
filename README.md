@@ -1,7 +1,7 @@
 # Projeto EcoEnergia Escolar
 
 ## Ideia
-O projeto **EcoEnergia Escolar** tem como objetivo reduzir o desperdício de comida e transformar parte desse lixo em energia para a escola.  
+O projeto **EcoEnergia Escolar** tem como objetivo reduzir o desperdício de comida e transformar parte desse lixo em energia para a escola  
 A ideia é usar um biodigestor, que converte restos de alimentos em gás. Esse gás pode ser usado para gerar energia elétrica ou aquecer água.  
 
 O material que sobra depois do processo vira adubo para hortas ou jardins da escola.  
@@ -22,6 +22,6 @@ Ensina os alunos a cuidar do meio ambiente de forma prática.
 5. Aplicar a campanha do "Prato Limpo".  
 
 ## Resultado Esperado
-- Menos desperdício de comida.  
-- Economia de energia e recursos.  
-- Mais consciência ambiental dentro da escola.  
+Menos desperdício de comida.  
+Economia de energia e recursos.  
+Mais consciência ambiental dentro da escola.  
