@@ -9,10 +9,10 @@ O material que sobra depois do processo vira adubo para hortas ou jardins da esc
 Além disso, o projeto traz a campanha **"Prato Limpo"**, incentivando os alunos a pegar apenas o que vão comer, evitando desperdício.  
 
 ## Vantagens
-- Diminui o lixo produzido.  
-- Reduz o gasto de energia da escola.  
-- Gera adubo para a horta escolar.  
-- Ensina os alunos a cuidar do meio ambiente de forma prática.  
+Diminui o lixo produzido.  
+Reduz o gasto de energia da escola.  
+Gera adubo para a horta escolar.  
+Ensina os alunos a cuidar do meio ambiente de forma prática.  
 
 ## Como Fazer
 1. Separar os restos de comida do refeitório.  
