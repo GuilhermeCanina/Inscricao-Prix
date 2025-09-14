@@ -1,27 +1,34 @@
-# Projeto EcoEnergia Escolar
+# Projeto Escola Verde
 
 ## Ideia
-O projeto **EcoEnergia Escolar** tem como objetivo reduzir o desperdício de comida e transformar parte desse lixo em energia para a escola  
-A ideia é usar um biodigestor, que converte restos de alimentos em gás. Esse gás pode ser usado para gerar energia elétrica ou aquecer água.  
+O projeto **Escola Verde** tem como objetivo usar a natureza para ajudar a escola a economizar recursos e melhorar o ambiente.  
+A ideia tem dois pontos principais:  
 
-O material que sobra depois do processo vira adubo para hortas ou jardins da escola.  
+### Captação de Água da Chuva
+Instalar tonéis ou caixas d’água para guardar a água da chuva.  
+Essa água pode ser usada para limpar o pátio, regar plantas e até em descargas.  
 
-Além disso, o projeto traz a campanha **"Prato Limpo"**, incentivando os alunos a pegar apenas o que vão comer, evitando desperdício.  
+### Plantio de Árvores e Áreas Verdes
+Plantar árvores em locais estratégicos para dar sombra.  
+Isso ajuda a reduzir o calor nas salas e corredores, diminuindo o uso de ventiladores.  
+As árvores também deixam o ambiente mais agradável e melhoram a qualidade do ar.  
 
 ## Vantagens
-Diminui o lixo produzido.  
-Reduz o gasto de energia da escola.  
-Gera adubo para a horta escolar.  
-Ensina os alunos a cuidar do meio ambiente de forma prática.  
+Menor gasto de água tratada para usos simples.  
+Redução do calor na escola.  
+Economia de energia elétrica com ventiladores.  
+Mais contato dos alunos com práticas sustentáveis.  
+Um espaço mais bonito e agradável.  
 
 ## Como Fazer
-1. Separar os restos de comida do refeitório.  
-2. Colocar os restos no biodigestor.  
-3. Usar o gás produzido para energia ou aquecimento.  
-4. Aproveitar o resíduo como adubo.  
-5. Aplicar a campanha do "Prato Limpo".  
+1. Colocar calhas e canos para direcionar a água da chuva para caixas ou tonéis.  
+2. Usar essa água em atividades que não precisam de água potável.  
+3. Definir pontos na escola para o plantio de árvores.  
+4. Organizar mutirões com alunos e professores para plantar e cuidar das árvores.  
+5. Criar campanhas de conscientização sobre o uso consciente de água e energia.  
 
 ## Resultado Esperado
-Menos desperdício de comida.  
-Economia de energia e recursos.  
-Mais consciência ambiental dentro da escola.  
+Redução no uso de água tratada.  
+Menos calor e mais sombra no ambiente escolar.  
+Economia de energia com ventiladores e ar-condicionado.  
+Escola mais verde e sustentável.  
